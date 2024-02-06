@@ -1,3 +1,8 @@
+/**
+ * Написать функцию, создающую резервную копию всех файлов в директории(без поддиректорий)
+ * во вновь созданную папку ./backup
+ */
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
